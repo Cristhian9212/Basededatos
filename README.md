@@ -20,18 +20,6 @@ Esta es una aplicación de gestión de usuarios desarrollada en Kotlin utilizand
 - **Jetpack Compose** (1.0.0 o superior)
 - **Room** (2.4.0 o superior)
 
-## Instalación
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu_usuario/user-management-app.git
-   ```
-
-2. Abre el proyecto en Android Studio.
-
-3. Sincroniza el proyecto con Gradle.
-
-4. Ejecuta la aplicación en un dispositivo físico o emulador.
 
 ## Uso
 
@@ -46,21 +34,3 @@ Esta es una aplicación de gestión de usuarios desarrollada en Kotlin utilizand
 - **Model:** Define los modelos de datos (por ejemplo, `User`).
 - **Repository:** Maneja las operaciones de acceso a datos (por ejemplo, `UserRepository`).
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y comitea (`git commit -am 'Añadir nueva característica'`).
-4. Envía tus cambios (`git push origin feature/nueva-caracteristica`).
-5. Crea un nuevo Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Cristhian Camilo Fernandez Castro  
-Email: tu_email@example.com
